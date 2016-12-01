@@ -2,16 +2,15 @@ import { Observable } from 'rxjs';
 import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { MyComponent } from './components/my-component';
-import { MyProvider } from './providers/my-provider';
+import { ProgressBarComponent } from './components/progress-bar.comp';
 
 @NgModule({
   declarations: [
-    MyComponent
+    ProgressBarComponent
   ],
-  providers: [ MyProvider ],
+  providers: [],
   exports: [
-    MyComponent
+    ProgressBarComponent
   ],
   imports: [
     BrowserModule

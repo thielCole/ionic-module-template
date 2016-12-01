@@ -1,7 +1,7 @@
 {
-  "name": "ionic-module-template",
-  "version": "0.0.12",
-  "description": "A template for creating reusable module for Angular 2 and Ionic 2",
+  "name": "ionic2-progress-bar",
+  "version": "0.0.1",
+  "description": "Progress Bar for an Ionic 2 application",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/driftyco/ionic-module-template.git"
+    "url": "git+https://github.com/thielcole/ionic2-progress-bar.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/driftyco/ionic-module-template/issues"
+    "url": "https://github.com/thielcole/ionic2-progress-bar/issues"
   },
-  "homepage": "https://github.com/driftyco/ionic-module-template#readme",
+  "homepage": "https://github.com/driftyco/ionic2-progress-bar#readme",
   "devDependencies": {
     "@angular/common": "^2.1.1",
     "@angular/compiler": "^2.1.1",
