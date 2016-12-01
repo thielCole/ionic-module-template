@@ -14,12 +14,12 @@
     "url": "git+https://github.com/thielcole/ionic2-progress-bar.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "thielcole",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thielcole/ionic2-progress-bar/issues"
   },
-  "homepage": "https://github.com/driftyco/ionic2-progress-bar#readme",
+  "homepage": "https://github.com/thielcole/ionic2-progress-bar#readme",
   "devDependencies": {
     "@angular/common": "^2.1.1",
     "@angular/compiler": "^2.1.1",
