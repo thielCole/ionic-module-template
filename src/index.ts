@@ -1,2 +1,2 @@
-export * from './my-module.module';
+export * from './progress-bar.module';
 export * from './components/progress-bar.comp';
